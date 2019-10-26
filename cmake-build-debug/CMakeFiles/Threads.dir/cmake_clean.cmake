@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Threads.dir/main.cpp.o"
-  "Threads"
+  "CMakeFiles/Threads.dir/main.cpp.obj"
   "Threads.pdb"
+  "Threads.exe"
+  "Threads.exe.manifest"
+  "libThreads.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

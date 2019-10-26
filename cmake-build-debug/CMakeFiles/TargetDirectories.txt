@@ -1,3 +1,3 @@
-/home/ahmad/Documents/projects/Threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ahmad/Documents/projects/Threads/cmake-build-debug/CMakeFiles/Threads.dir
-/home/ahmad/Documents/projects/Threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Desktop/projects/Multithreading/cmake-build-debug/CMakeFiles/Threads.dir
+C:/Users/Ahmed/Desktop/projects/Multithreading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/Desktop/projects/Multithreading/cmake-build-debug/CMakeFiles/rebuild_cache.dir
